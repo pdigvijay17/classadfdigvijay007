@@ -1,0 +1,15 @@
+{
+	"name": "classadfdigvijay007",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3e2cd52-9aa7-49ba-b3f6-559d20fd223d",
+		"tenantId": "90880054-c639-42b9-975c-c9fb83d07828"
+	}
+}
